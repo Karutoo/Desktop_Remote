@@ -8,8 +8,7 @@
 
 * 遠隔で操作をしてもらいたい人は"操作してもらう"を、操作する側の人は"操作する"をクリックします。
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/227435170242756608/862862009782239232/unknown.png"
-  width="686" height="289">
+<img src="https://cdn.discordapp.com/attachments/227435170242756608/862862009782239232/unknown.png">
 </p>
 
 ## 操作される人
@@ -35,6 +34,9 @@
 6. コピーしたURLをchatアプリなどに貼り、アクセスしてもらうことができれば操作される人の設定は終わりです。
 
 </details>
+
+
+
 
 ## 操作する人
 
