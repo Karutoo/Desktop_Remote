@@ -22,7 +22,7 @@
 
 2. ソフトを起動すると下の方に現在の接続状況が書かれています。ここが緑色の接続中であれば操作が可能です。
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/227435170242756608/862866738352488519/unknown.png"  width="738">
+  <img src="https://cdn.discordapp.com/attachments/227435170242756608/862866738352488519/unknown.png">
 </p>
 
 3. 画面共有を行うために"←このIDで画面共有をする"、"ランダムなIDで画面共有をする"どちらか好きな方を押します。
