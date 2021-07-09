@@ -41,8 +41,7 @@
 ## 操作する人
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/227435170242756608/862867272972369920/unknown.png"
-  width="686" height="289">
+<img src="https://cdn.discordapp.com/attachments/227435170242756608/862867272972369920/unknown.png">
 </p>
 
 <details><summary><b>使い方</b></summary>
